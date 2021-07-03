@@ -10,3 +10,12 @@ h1{
     text-align: center;
     color: darkolivegreen;
 }
+
+h2{
+    color: tomato;
+    text-align: center;
+    background-color: darkslategray;
+    height: auto;
+    width: 50%;
+    
+}
